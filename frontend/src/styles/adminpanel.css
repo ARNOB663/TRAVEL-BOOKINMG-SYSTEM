@@ -1,0 +1,56 @@
+/* adminPanel.css */
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  table {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  button {
+    margin: 0 5px;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  /* Styling for the Delete button */
+  button.btn-danger {
+    background-color: #ff4d4d;
+    border-color: #ff4d4d;
+  }
+  
+  button.btn-danger:hover {
+    background-color: #ff3333;
+    border-color: #ff3333;
+  }
+  
+  /* Styling for the Update button */
+  button.btn-warning {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+  }
+  
+  button.btn-warning:hover {
+    background-color: #ffb300;
+    border-color: #ffb300;
+  }
+  
+  table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  table td {
+    text-align: center;
+  }
+  
